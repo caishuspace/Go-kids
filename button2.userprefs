@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="button2.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Anton OFL.txt">
+    <Files>
+      <File FileName="Assets\C#\backButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Anton OFL.txt" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
